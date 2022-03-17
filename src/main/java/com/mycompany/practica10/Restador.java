@@ -9,7 +9,9 @@ package com.mycompany.practica10;
  *
  * @author guillermo.andres.gue
  */
-public class Sumador {
- public static float sumar (float a, float b ) {
-return a + b;
-}} 
+public class Restador {
+
+    public static float restar(float a, float b) {
+        return a - b;
+    }
+}
